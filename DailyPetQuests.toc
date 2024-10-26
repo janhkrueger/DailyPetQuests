@@ -1,0 +1,11 @@
+## Interface: 110005
+## Title: DailyPetQuests
+## Notes: A comprehensive list of daily pet quests and their rewards.
+## Author: Shinxiri
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+DailyPetQuests.lua
